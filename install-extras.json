@@ -1,10 +1,18 @@
 [
   {
+    "id": "edge-caiasoft",
+    "action": "enable"
+  },
+  {
     "id": "edge-connexion",
     "action": "enable"
   },
   {
     "id": "edge-dematic",
+    "action": "enable"
+  },
+  {
+    "id": "edge-inn-reach",
     "action": "enable"
   },
   {
@@ -29,10 +37,6 @@
   },
   {
     "id": "edge-sip2",
-    "action": "enable"
-  },
-  {
-    "id": "mod-bursar-export",
     "action": "enable"
   },
   {
@@ -68,11 +72,19 @@
     "action": "enable"
   },
   {
+    "id": "mod-eusage-reports",
+    "action": "enable"
+  },
+  {
     "id": "mod-gobi",
     "action": "enable"
   },
   {
     "id": "mod-graphql",
+    "action": "enable"
+  },
+  {
+    "id": "mod-inventory-update",
     "action": "enable"
   },
   {

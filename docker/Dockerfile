@@ -1,15 +1,16 @@
-FROM node:alpine as stripes_build
+FROM node:lts-alpine3.14 as stripes_build
 
 ARG OKAPI_URL=http://localhost:9130
 ARG TENANT_ID=diku
+ARG CXXFLAGS="-std=c++17"
 
 RUN mkdir -p /etc/folio/stripes
 WORKDIR /etc/folio/stripes
 
 COPY . /etc/folio/stripes/
 
-RUN apk add --no-cache alpine-sdk python
-RUN yarn config set python /usr/bin/python
+RUN apk add --no-cache alpine-sdk python3
+RUN yarn config set python /usr/bin/python3
 
 RUN yarn config set @folio:registry https://repository.folio.org/repository/npm-folioci/
 RUN yarn install
