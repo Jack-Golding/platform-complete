@@ -149,6 +149,9 @@
   "id" : "folio_developer-6.0.100000139",
   "action" : "enable"
 }, {
+  "id" : "okapi-4.11.1",
+  "action" : "enable"
+}, {
   "id" : "mod-kb-ebsco-java-3.10.0-SNAPSHOT.314",
   "action" : "enable"
 }, {
