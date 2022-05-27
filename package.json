@@ -92,6 +92,7 @@
   },
   "resolutions": {
     "@folio/stripes-cli": "^2.4.0",
+    "@folio/stripes-webpack": "^3.0.0",
     "@rehooks/local-storage": "2.4.0",
     "colors": "1.4.0",
     "final-form": "^4.20.4",
