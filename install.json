@@ -5,9 +5,6 @@
   "id" : "folio_handler-stripes-registry-1.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_marc-authorities-0.1.0",
-  "action" : "enable"
-}, {
   "id" : "folio_myprofile-7.0.0",
   "action" : "enable"
 }, {
@@ -26,37 +23,37 @@
   "id" : "folio_servicepoints-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "okapi-4.13.0",
+  "id" : "okapi-4.13.2",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-converter-storage-1.13.0",
+  "id" : "mod-data-import-converter-storage-1.13.3",
   "action" : "enable"
 }, {
   "id" : "mod-graphql-1.9.0",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.1.0",
+  "id" : "mod-finance-storage-8.1.4",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-13.2.0",
+  "id" : "mod-orders-storage-13.2.2",
   "action" : "enable"
 }, {
-  "id" : "mod-configuration-5.7.5",
+  "id" : "mod-configuration-5.7.9",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-23.0.0",
+  "id" : "mod-inventory-storage-23.0.5",
   "action" : "enable"
 }, {
   "id" : "mod-users-18.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-permissions-6.0.0",
+  "id" : "mod-permissions-6.0.6",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-storage-4.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-4.4.0",
+  "id" : "mod-finance-4.4.1",
   "action" : "enable"
 }, {
   "id" : "mod-calendar-1.14.0",
@@ -71,16 +68,16 @@
   "id" : "mod-sender-1.7.0",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-3.0.0",
+  "id" : "mod-notes-3.0.4",
   "action" : "enable"
 }, {
-  "id" : "mod-tags-1.1.0",
+  "id" : "mod-tags-1.1.4",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-5.1.0",
+  "id" : "mod-agreements-5.1.1",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-4.1.0",
+  "id" : "mod-licenses-4.1.1",
   "action" : "enable"
 }, {
   "id" : "mod-courses-1.4.3",
@@ -89,16 +86,13 @@
   "id" : "mod-service-interaction-1.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-3.10.0",
+  "id" : "mod-kb-ebsco-java-3.10.1",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-4.3.0",
   "action" : "enable"
 }, {
   "id" : "mod-invoice-storage-5.3.0",
-  "action" : "enable"
-}, {
-  "id" : "mod-inn-reach-1.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-1.4.0",
@@ -110,70 +104,61 @@
   "id" : "mod-authtoken-2.9.1",
   "action" : "enable"
 }, {
-  "id" : "mod-codex-mux-2.11.1",
+  "id" : "mod-codex-mux-2.11.2",
   "action" : "enable"
 }, {
-  "id" : "mod-password-validator-2.3.0",
+  "id" : "mod-password-validator-2.3.2",
   "action" : "enable"
 }, {
-  "id" : "mod-login-saml-2.4.1",
+  "id" : "mod-login-saml-2.4.6",
   "action" : "enable"
 }, {
-  "id" : "mod-codex-ekb-1.9.1",
-  "action" : "enable"
-}, {
-  "id" : "mod-codex-ekb-1.9.1",
-  "action" : "uptodate"
-}, {
-  "id" : "folio_calendar-7.1.0",
+  "id" : "folio_calendar-7.1.1",
   "action" : "enable"
 }, {
   "id" : "folio_courses-5.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_dashboard-2.1.0",
+  "id" : "folio_dashboard-2.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_eholdings-7.1.0",
+  "id" : "folio_eholdings-7.1.5",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-comparisons-4.1.2",
+  "id" : "folio_erm-comparisons-4.1.4",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-6.1.0",
+  "id" : "folio_erm-usage-6.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_inn-reach-1.2.0",
+  "id" : "folio_ldp-1.6.2",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-1.6.0",
+  "id" : "folio_licenses-8.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_licenses-8.1.0",
-  "action" : "enable"
-}, {
-  "id" : "folio_local-kb-admin-5.1.5",
+  "id" : "folio_local-kb-admin-5.1.6",
   "action" : "enable"
 }, {
   "id" : "folio_notes-6.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-agreement-8.1.0",
+  "id" : "folio_plugin-find-agreement-8.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-contact-3.1.0",
+  "id" : "folio_plugin-find-contact-3.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-eresource-4.1.1",
+  "id" : "folio_plugin-find-eresource-4.1.3",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-interface-3.1.0",
+  "id" : "folio_plugin-find-interface-3.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-license-8.1.0",
+  "id" : "folio_plugin-find-license-8.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-organization-3.1.0",
+  "id" : "folio_plugin-find-organization-3.1.1",
   "action" : "enable"
 }, {
   "id" : "folio_search-5.1.0",
@@ -182,22 +167,25 @@
   "id" : "folio_tags-6.1.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-update-2.0.0",
+  "id" : "mod-inventory-update-2.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-codex-inventory-2.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-1.3.0",
+  "id" : "mod-codex-ekb-1.9.2",
+  "action" : "enable"
+}, {
+  "id" : "mod-data-export-worker-1.3.5",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.6.0",
   "action" : "enable"
 }, {
-  "id" : "mod-pubsub-2.5.0",
+  "id" : "mod-pubsub-2.5.1",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-14.0.0",
+  "id" : "mod-circulation-storage-14.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-template-engine-1.16.0",
@@ -206,43 +194,43 @@
   "id" : "mod-notify-2.10.0",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-17.1.0",
+  "id" : "mod-feesfines-17.1.2",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-blocks-1.5.0",
+  "id" : "mod-patron-blocks-1.5.3",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-23.0.0",
+  "id" : "mod-circulation-23.0.10",
   "action" : "enable"
 }, {
-  "id" : "mod-search-1.6.0",
+  "id" : "mod-search-1.6.4",
   "action" : "enable"
 }, {
-  "id" : "mod-users-bl-7.2.0",
+  "id" : "mod-users-bl-7.2.4",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-7.0.0",
+  "id" : "folio_circulation-7.0.3",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-instance-6.1.4",
+  "id" : "folio_plugin-find-instance-6.1.6",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-8.1.0",
+  "id" : "folio_stripes-core-8.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_users-7.1.0",
+  "id" : "folio_users-8.0.4",
   "action" : "enable"
 }, {
-  "id" : "edge-inn-reach-1.0.3",
+  "id" : "edge-sip2-2.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-3.2.0",
+  "id" : "mod-rtac-3.2.1",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-harvester-4.0.0",
+  "id" : "mod-erm-usage-harvester-4.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-user-import-3.6.4",
+  "id" : "mod-user-import-3.6.6",
   "action" : "enable"
 }, {
   "id" : "edge-rtac-2.4.0",
@@ -251,46 +239,46 @@
   "id" : "folio_acquisition-units-3.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-8.1.0",
+  "id" : "folio_agreements-8.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-1.0.1",
+  "id" : "folio_checkin-7.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_checkin-7.0.0",
+  "id" : "folio_checkout-8.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-8.0.0",
+  "id" : "folio_circulation-log-2.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-log-2.1.0",
+  "id" : "folio_data-export-5.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_data-export-5.1.0",
+  "id" : "folio_data-import-5.1.3",
   "action" : "enable"
 }, {
-  "id" : "folio_data-import-5.1.1",
+  "id" : "folio_export-manager-2.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_export-manager-2.1.0",
+  "id" : "folio_finance-3.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-3.1.0",
+  "id" : "folio_inventory-9.0.12",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-9.0.0",
+  "id" : "folio_invoice-3.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-3.1.0",
+  "id" : "folio_marc-authorities-1.0.5",
   "action" : "enable"
 }, {
   "id" : "folio_oai-pmh-3.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-3.1.0",
+  "id" : "folio_orders-3.1.3",
   "action" : "enable"
 }, {
-  "id" : "folio_organizations-3.1.0",
+  "id" : "folio_organizations-3.1.3",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-bursar-export-2.1.0",
@@ -305,10 +293,10 @@
   "id" : "folio_plugin-find-import-profile-5.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-po-line-3.1.0",
+  "id" : "folio_plugin-find-po-line-3.1.1",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-5.0.0",
+  "id" : "folio_quick-marc-5.0.3",
   "action" : "enable"
 }, {
   "id" : "folio_receiving-2.1.0",
@@ -317,22 +305,22 @@
   "id" : "folio_remote-storage-3.1.0",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-7.0.0",
+  "id" : "folio_requests-7.0.2",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-7.1.0",
+  "id" : "folio_stripes-smart-components-7.1.4",
   "action" : "enable"
 }, {
-  "id" : "folio_tenant-settings-7.1.0",
+  "id" : "folio_tenant-settings-7.1.1",
   "action" : "enable"
 }, {
-  "id" : "edge-caiasoft-1.2.0",
+  "id" : "edge-caiasoft-1.2.1",
   "action" : "enable"
 }, {
   "id" : "edge-connexion-1.0.5",
   "action" : "enable"
 }, {
-  "id" : "edge-dematic-1.5.0",
+  "id" : "edge-dematic-1.5.1",
   "action" : "enable"
 }, {
   "id" : "edge-ncip-1.7.0",
@@ -344,13 +332,16 @@
   "id" : "edge-oai-pmh-2.4.2",
   "action" : "enable"
 }, {
+  "id" : "edge-patron-4.8.0",
+  "action" : "enable"
+}, {
   "id" : "mod-ebsconet-1.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-audit-2.3.0",
+  "id" : "mod-audit-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-oai-pmh-3.7.0",
+  "id" : "mod-oai-pmh-3.8.0",
   "action" : "enable"
 }, {
   "id" : "mod-gobi-2.3.0",
@@ -359,43 +350,43 @@
   "id" : "mod-ncip-1.10.0",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-5.2.0",
+  "id" : "mod-patron-5.2.2",
   "action" : "enable"
 }, {
   "id" : "mod-eusage-reports-1.1.1",
   "action" : "enable"
 }, {
-  "id" : "mod-copycat-1.2.0",
+  "id" : "mod-copycat-1.2.1",
   "action" : "enable"
 }, {
   "id" : "mod-z3950-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-spring-1.3.0",
+  "id" : "mod-data-export-spring-1.3.5",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.3.0",
+  "id" : "mod-source-record-storage-5.3.3",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-18.1.0",
+  "id" : "mod-inventory-18.1.9",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-12.3.0",
+  "id" : "mod-orders-12.3.3",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-4.3.0",
+  "id" : "mod-data-export-4.4.2",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.3.0",
+  "id" : "mod-source-record-manager-3.3.8",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-2.4.0",
+  "id" : "mod-data-import-2.4.2",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-5.3.0",
+  "id" : "mod-invoice-5.3.3",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-2.3.0",
+  "id" : "mod-quick-marc-2.3.4",
   "action" : "enable"
 }, {
   "id" : "mod-remote-storage-1.5.0",

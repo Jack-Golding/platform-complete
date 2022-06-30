@@ -9,7 +9,6 @@ module.exports = {
   modules: {
     '@folio/acquisition-units': {},
     '@folio/agreements': {},
-    '@folio/bulk-edit': {},
     '@folio/calendar' : {},
     '@folio/checkin' : {},
     '@folio/checkout' : {},
@@ -26,7 +25,6 @@ module.exports = {
     '@folio/export-manager': {},
     '@folio/finance' : {},
     '@folio/handler-stripes-registry': {},
-    '@folio/inn-reach': {},
     '@folio/inventory' : {},
     '@folio/invoice': {},
     '@folio/ldp': {},
