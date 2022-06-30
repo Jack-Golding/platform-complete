@@ -82,7 +82,7 @@
     "swr": "^0.4.2"
   },
   "devDependencies": {
-    "@folio/eslint-config-stripes": "^6.1.0",
+    "@folio/eslint-config-stripes": "https://github.com/ualibweb/eslint-config-stripes.git#esconf-19-typescript",
     "@folio/stripes-cli": "~2.5.0",
     "eslint": "^6.2.1",
     "lodash": "^4.17.5"
