@@ -87,6 +87,8 @@
   },
   "resolutions": {
     "@folio/stripes-cli": "^2.4.0",
+    "@folio/stripes-components": "https://github.com/ualibweb/stripes-components.git#stcom-1012-internal",
+    "@folio/stripes-webpack": "https://github.com/ualibweb/stripes-webpack.git#STRWEB-54-ts-fix",
     "@rehooks/local-storage": "2.4.0",
     "@types/eslint": "8.4.3",
     "colors": "1.4.0",
