@@ -30,7 +30,7 @@
     "@folio/erm-comparisons": ">=1.0.0",
     "@folio/erm-usage": ">=1.0.3",
     "@folio/export-manager": ">=1.0.0",
-    "@folio/finance": ">=1.1.0",
+    "@folio/finance": "https://github.com/folio-org/ui-calendar#master",
     "@folio/handler-stripes-registry": ">=1.0.0",
     "@folio/inn-reach": ">=1.1.0",
     "@folio/inventory": ">=1.4.0",
