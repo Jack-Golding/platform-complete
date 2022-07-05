@@ -66,11 +66,11 @@ module.exports = {
   },
   branding: {
     logo: {
-      src: "./tenant-assets/opentown-libraries-logo.png",
+      src: "./tenant-assets/Approved_UA_Elephant.png",
       alt: "Opentown Libraries",
     },
     favicon: {
-      src: "./tenant-assets/opentown-libraries-favicon.png",
+      src: "./tenant-assets/A-Square-Logo-4c_Official.jpg",
     },
   },
 };
