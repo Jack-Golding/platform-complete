@@ -13,6 +13,7 @@ module.exports = {
 
   modules: {
     '@folio/acquisition-units': {},
+    '@folio/bulk-edit' : {},
     '@folio/agreements' : {},
     '@folio/calendar' : {},
     '@folio/checkin' : {},
@@ -31,6 +32,8 @@ module.exports = {
     '@folio/inventory' : {},
     '@folio/invoice' : {},
     '@folio/finance' : {},
+    '@folio/handler-stripes-registry' : {},
+    '@folio/inn-reach' : {},
     '@folio/ldp' : {},
     '@folio/licenses' : {},
     '@folio/local-kb-admin': {},
@@ -40,7 +43,7 @@ module.exports = {
     '@folio/orders' : {},
     '@folio/organizations' : {},
     '@folio/plugin-bursar-export': {},
-    '@folio/plugin-create-inventory-records' : {},
+    '@folio/plugin-eusage-reports' : {},
     '@folio/plugin-find-agreement' : {},
     '@folio/plugin-find-erm-usage-data-provider' : {},
     '@folio/plugin-find-import-profile' : {},
@@ -52,6 +55,7 @@ module.exports = {
     '@folio/plugin-find-organization' : {},
     '@folio/plugin-find-package-title': {},
     '@folio/plugin-find-po-line': {},
+    '@folio/plugin-find-fund': {},
     '@folio/plugin-find-user' : {},
     '@folio/plugin-resource-registry' : {},
     '@folio/quick-marc' : {},
